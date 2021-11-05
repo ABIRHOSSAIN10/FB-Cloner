@@ -17,7 +17,7 @@ cd FB-Cloner
 python2 Cloner.py
 
 
-#For any time run just Type 
+# For any time run just Type 
 
 ABIRCLON
 
